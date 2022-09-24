@@ -1,0 +1,96 @@
+body {background-color: whitesmoke;}
+.prime {
+	background-color: gray;
+	width: 450px;
+	height: 250px;
+	margin: 10px;
+	float: left;
+	text-align: left;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black ;
+}
+.prime1{
+	background-color: indianred;
+	width: 150px;
+	height: 50px;
+	margin: 0px;
+	float: right;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black ;
+	top: 250px;
+
+}
+.primetex{
+		background-color: gray;
+		width: 445px;
+		height: 100;
+		position: absolute;
+		top: 235px;
+		font-weight: bolder;
+		float: left;
+
+	}
+
+.second{
+	background-color: gray;
+	width: 450px;
+	height: 250px;
+	margin: 10px;
+	float: left;
+	text-align: left;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black ;
+}
+.second2{
+	background-color: royalblue;
+	width: 150px;
+	height: 50px;
+	margin: 0px;
+	float: right;
+	text-align: center;
+	color: white ;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black ;
+}
+.secondtex{
+		background-color: gray;
+		width: 445px;
+		height: 100;
+		position: absolute;
+		top: 165px;
+
+	}
+.third{
+background-color: gray;
+	width: 450px;
+	height: 250px;
+	margin: 10px;
+	float: left;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black ;	
+}
+.third3{
+	background-color: greenyellow;
+	width: 150px;
+	height: 50px;
+	margin: 0px;
+	float: right;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black ;
+}
+.thirdtex{
+		background-color: gray;
+		width: 445px;
+		height: 100;
+		position: absolute;
+		top: 165px;
+
+	}
